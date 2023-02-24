@@ -1,0 +1,4 @@
+{
+    "host": "subdomain.example.com",
+    "server": "http://hostname:8080"
+}
